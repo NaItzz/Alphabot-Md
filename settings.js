@@ -18,20 +18,20 @@ global.autoread = false // auto read pesan / message
 //global.available = true //status online (online)
 
 // Other
-global.botname = "Epibi - MD" //namabot kalian
-global.ownername= "ᴹᴿ᭄ Abil Putra ×፝֟͜×" //nama kalian
-global.myweb ="-" //bebas asal jan hapus
+global.botname = "Kotori - MD" //namabot kalian
+global.ownername= " DaveTG × FourTage " //nama kalian
+global.myweb ="https://github.com/NaItzz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "-" //bebas
+global.github = "https://github.com/NaItzz" //bebas
 global.email = "abilputra152@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "62882008356011" // nomor wa kalian
-global.ownernomerr = "+62882008356011" //nmr wa kalian
+global.ownernomer = "62882008356011","6285875187333","6289501986748" // nomor wa kalian
+global.ownernomerr = "+62882008356011","+6285875187333","+6289501986748" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62882008356011"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Epibi - MD' //sticker wm ubah
+global.owner = ["62882008356011","6285875187333","6289501986748"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© K O T O R I' //sticker wm ubah
 global.author = 'WhatsApp Bot' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
